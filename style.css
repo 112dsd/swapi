@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+   background: url(/sw_oboi.png);
+  }
+  
+  h1{
+    display: flex;
+    background-color: rgb(5, 2, 19);
+    padding: 10px;
+    justify-content: center;
+    color: white;
+  }
+  
+  header {
+    margin: 0 auto;
+    max-width: 700px;
+  }
+
+  .films {
+    max-width: 700px; 
+    padding: 10px;
+    background-color: rgb(5, 2, 19);
+    color: white;
+  }
+
+  h2 {
+    padding-top: 20px;
+  }
+  
+  p{ 
+    font-size: 18px;
+    padding-top: 10px;
+  }
